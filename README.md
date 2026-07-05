@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- TODO: Replace 'demo.gif' with the actual name of your GIF file -->
-  <img src="demo.gif" alt="Kinetix Gameplay" width="300"/>
+  <!-- <img src="demo.gif" alt="Kinetix Gameplay" width="300"/> -->
 </p>
 
 ---
